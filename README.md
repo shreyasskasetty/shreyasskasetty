@@ -1,10 +1,8 @@
 ## Hi there 👋, I'm Shreyas
 
-I'm passionate about Full Stack and Backend Development. Currently, I'm pursuing my master's in Computer Science at Texas A&M University in College Station. I am passionate about innovation and impact, I highly value feedback, and I am always eager to learn.
+I'm passionate about Full-Stack and Backend Development. Currently, I'm pursuing my master's in Computer Science at Texas A&M University in College Station. I am highly motivated by innovation and impact, I highly value feedback, and I am always eager to learn.
 
-Before returning to academia, I gained valuable industry experience at **[Cisco Systems](https://www.cisco.com/)**. There, I worked on full stack systems and automation frameworks, collaborating closely with teams across hardware, QA, and software. My strengths are in full-stack and backend development.
-
-I'm also learning new technologies like Apache Kafka, Graph QL, and exploring new front-end and backend frameworks, including Go, Mantine, and TypeScript
+Before returning to academia, I gained valuable industry experience at **[Cisco Systems](https://www.cisco.com/)** for two years. There, I worked on full stack systems and automation frameworks, collaborating closely with teams across hardware, QA, and software.
 
 ## ⚡️ A few Quick Facts
 - 📚 I'm currently studying about Search Engines, Recommender Systems and AI.
