@@ -10,7 +10,7 @@ Thanks.
 - 📚 I'm currently studying about Search Engines, Recommender Systems and AI.
 - 🧑‍💻 I'm also actively learning new technical skills when I'm free.
 - 🎯 Hit me up for **machine learning**, **software architecture**, or **tech in general**.
-- 📺 I used to be a professional badminton player 🏸
+- 🏸 I used to be a professional badminton player 
 
 
 ## 🚀 Stuff I've worked with 
