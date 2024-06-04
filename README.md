@@ -2,12 +2,9 @@
 
 I'm a student at Texas A&M University, College Station. I have one more year to achieve my master's degree in Computer Science. Before returning to academia, I gained valuable industry experience at **[Cisco Systems](https://www.cisco.com/)** for two years. There, I worked on optimizing and building middleware for optical line systems. I have always looked for innovative ideas while I was working at Cisco. One of my ideas to build an interactive network monitoring service replaced the legacy method of accessing optical devices. I received a lot of appreciation from the higher management for this work. 
 
-I'm making a transition from embedded systems to full stack/ backend development. If its a recruiter/manager looking at my profile please give me an opportunity to make this transition. 
-
-Thanks. 
-
 ## ⚡️ A few Quick Facts
 - 📚 I'm currently studying about Search Engines, Recommender Systems and AI.
+- 📚 My strenghts are in front-end and backend development.
 - 🧑‍💻 I'm also actively learning new technical skills when I'm free.
 - 🎯 Hit me up for **machine learning**, **software architecture**, or **tech in general**.
 - 🏸 I used to be a professional badminton player 
